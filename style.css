@@ -1094,10 +1094,6 @@ img {
         width: 100%;
     }
 
-    body {
-        width: 320px;
-    }
-
     .news-block{
         display: grid;
         grid-template-columns: repeat(1, minmax(0, 1fr));
